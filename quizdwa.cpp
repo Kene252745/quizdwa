@@ -24,10 +24,6 @@ int main()
 
 
 
-
-
-
-
 /*int readNumber()
 {
     std::cout << "Enter a number: ";
