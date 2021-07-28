@@ -1,18 +1,8 @@
 #include <iostream>
 
-int readNumber() {
+int readNumber();
 
-    std::cout << "Enter an integer a: "; 
-    int a{};
-    std::cin >> a; 
-    return a;
-}
-
-
-void writeAnswer(int x) {
-
-    std::cout << "Your input is " << x;
-}
+void writeAnswer(int x);
 
 int main()
 {
@@ -44,4 +34,6 @@ int main()
     writeAnswer(x + y); // using operator+ to pass the sum of x and y to writeAnswer()
     return 0;
 }*/
+
+
 
