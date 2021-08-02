@@ -3,7 +3,7 @@
 
 int readNumber() {
 
-    std::cout << "Enter an integer a: ";
+    std::cerr << "Enter an integer a: ";
     int a{};
     std::cin >> a;
     return a;

@@ -1,6 +1,6 @@
 #include <iostream>
 #include "io.h"
-
+/*
 
 int main()
 {
@@ -10,7 +10,7 @@ int main()
     return 0; 
 }
 
-
+*/
 
 /*int readNumber()
 {
